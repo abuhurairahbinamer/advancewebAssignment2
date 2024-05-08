@@ -1,0 +1,68 @@
+.a1{
+  margin: auto;
+  width: 40%;
+  /* background-color: blue; */
+
+}
+
+.a2{
+  text-align: center;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.a3{
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+}
+.a5{
+  font-size: 30px;
+}
+.a6{
+  float: left;
+  font-size: 30px;
+}
+.a7{
+  float: right;
+  font-size: 30px;
+}
+.a10{
+  height: 35px;
+}
+.a8{
+  width: 10px;
+  height: 35px;
+  background-color: rgb(75, 246, 75);
+  position: absolute;
+  top: -3px;
+  left: 684px;
+}
+.a9{
+  width: 10px;
+  height: 35px;
+  background-color: rgb(252, 85, 85);
+  position: absolute;
+  top: -3px;
+  left: 684px;
+}
+.a11{
+  position: relative;
+}
+
+.a12{
+  border-radius: 20px;
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  font-size: 30px;
+}
+.a13{
+  width: 100%;
+  background-color: rgb(203, 203, 203);
+  border-radius: 20px;
+  height: 35px;
+}
